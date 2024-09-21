@@ -23,6 +23,10 @@ This is a simple 4x4 Sudoku puzzle game built using Java Swing. The app allows u
 - Java Development Kit (JDK) installed
 - Java IDE (e.g., IntelliJ IDEA, Eclipse) or command line tools
 
+## From the development stage
+
+![Screenshot (60)](https://github.com/user-attachments/assets/5788902d-4bdf-435e-8ab5-dbd6846b709d)
+
 ## Usage
 
 - Enter numbers in the provided fields to solve the puzzle.
